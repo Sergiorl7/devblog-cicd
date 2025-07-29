@@ -1,7 +1,6 @@
 # Framework web principal
 Flask==2.3.3
-# Dependencias de Flask (se instalan automáticamente, pero es bueno
-especificarlas)
+# Dependencias de Flask (se instalan automáticamente, pero es bueno especificarlas)
 Werkzeug==2.3.7
 Jinja2==3.1.2
 MarkupSafe==2.1.3
